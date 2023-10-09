@@ -1,0 +1,16 @@
+metadata:
+  title: Exemple de présentation avec pandoc et reveal.js
+  author: Synoptik Labs
+  date: 09 octobre 2023
+input-file:
+  - markdown/0-introduction.md
+  - markdown/1-exemples.md
+  - markdown/2-conclusion.md
+output-file: slide.html
+table-of-contents: true
+toc-depth: 1
+variables:
+  theme: slabs
+  slideNumber: "'c'"
+standalone: true
+

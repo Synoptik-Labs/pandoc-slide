@@ -1,0 +1,9 @@
+# Output files
+slide.html
+
+# Mac files
+.DS_Store
+
+# Editors
+*.swp
+
